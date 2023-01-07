@@ -1,0 +1,15 @@
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\bin\x64\Debug\WindowsLoopbackManager.exe.config
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\bin\x64\Debug\WindowsLoopbackManager.exe
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\bin\x64\Debug\WindowsLoopbackManager.pdb
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\obj\x64\Debug\Loopback.csproj.AssemblyReference.cache
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\obj\x64\Debug\Loopback.csproj.SuggestedBindingRedirects.cache
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\obj\x64\Debug\MainWindow.baml
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\obj\x64\Debug\MainWindow.g.cs
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\obj\x64\Debug\App.g.cs
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\obj\x64\Debug\WindowsLoopbackManager_MarkupCompile.cache
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\obj\x64\Debug\WindowsLoopbackManager.g.resources
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\obj\x64\Debug\Loopback.Properties.Resources.resources
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\obj\x64\Debug\Loopback.csproj.GenerateResource.cache
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\obj\x64\Debug\Loopback.csproj.CoreCompileInputs.cache
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\obj\x64\Debug\WindowsLoopbackManager.exe
+C:\repo\Windows-Loopback-Exemption-Manager\Loopback\obj\x64\Debug\WindowsLoopbackManager.pdb
